@@ -29,3 +29,8 @@ Durante a execução do comando certutil -hashfile, foram gerados os hashes MD5 
 Na terceira execução, ao calcular novamente o hash do arquivo imagem sensor.jpeg, após sobreescrever o arquivo com a cópia, foi obtido o valor 442ede3493d452f12738db47a15eadc0, diferente do primeiro. Esse resultado demonstra que o conteúdo do arquivo foi alterado entre as duas verificações, pois qualquer modificação em um arquivo gera um hash MD5 diferente.
 
 Assim, foi possível comprovar a utilidade do algoritmo MD5 para verificar a integridade de arquivos e identificar alterações em seu conteúdo.
+
+📸 EVIDÊNCIAS
+<img width="1089" height="524" alt="Screenshot 2026-06-28 134054" src="https://github.com/user-attachments/assets/db85b37d-c7b9-43d0-97b1-bb2815eb057f" />
+
+
